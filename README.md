@@ -8,3 +8,6 @@ Free CCNA Course by David Bombal -- https://www.youtube.com/playlist?list=PLhfrW
 
 Lab:
 Eve-NG Guide -- https://www.youtube.com/watch?v=ZlyOqQJNpTE&list=PLZURQ_XyXLwBLCkx62v_QLxotBVm-gYc8
+
+Scrum:
+Introduction to Scrum -- https://www.youtube.com/watch?v=9TycLR0TqFA
